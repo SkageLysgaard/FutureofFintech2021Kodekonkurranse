@@ -10,3 +10,5 @@ installasjoner (pip install ****):
 *requests
 
 How to run: streamlit run streamlit.py
+
+prøv og søk f.eks etter collection 'mekaverse'.
